@@ -5,4 +5,4 @@ This ipython notebook is based on the tutorial that sumpliments the manuscript, 
 
 In this version, I have edited some text in order to hopefully provide a more consise explination of some topics and I have tweaked some code to provide a greater accuracy, mainly adding dropouts and early stopping. 
 
-Please refer to the [original paper](https://www.nature.com/articles/s41588-018-0295-5) for credit and further reading. **All credit goes to the authors of the paper** 
+Please refer to the [original paper](https://www.nature.com/articles/s41588-018-0295-5) for credit and further reading. **All credit goes to the authors of the paper.** 
